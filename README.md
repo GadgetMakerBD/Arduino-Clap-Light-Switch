@@ -18,6 +18,12 @@ This Arduino project turns lights on/off by detecting **two claps** using a micr
 
 ---
 
+## 🖼️ Circuit Diagram
+
+![Circuit Diagram](circuit-diagram-gadget.jpg)
+
+---
+
 ## 📝 How It Works
 
 - The microphone detects **claps** as sound pulses.
