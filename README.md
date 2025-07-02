@@ -9,12 +9,12 @@ This Arduino project turns lights on/off by detecting **two claps** using a micr
 
 ## 🧰 Components Used
 
-- Arduino Uno (or compatible)
+- Arduino Uno R3 SMD
 - Microphone sound sensor module
 - Relay module (to control light)
-- LED (for indication)
+- LED Light (for indication)
 - Jumper wires
-- Breadboard or PCB
+- LED Holder and Plug
 
 ---
 
