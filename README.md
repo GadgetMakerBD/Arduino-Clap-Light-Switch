@@ -2,7 +2,7 @@
 
 This Arduino project turns lights on/off by detecting **two claps** using a microphone sensor.
 
-🎥 Watch the full video on YouTube: [Gadget Maker BD](https://youtube.com/@gadgetmakerbd5)  
+🎥 Watch the full video on YouTube: [Gadget Maker BD](https://youtu.be/3grnVwB09WQ?si=ReMQQ3sA5j6RbdNS)  
 📁 Code maintained by: Gadget Maker BD
 
 ---
