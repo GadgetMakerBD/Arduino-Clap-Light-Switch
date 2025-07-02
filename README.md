@@ -20,7 +20,7 @@ This Arduino project turns lights on/off by detecting **two claps** using a micr
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](circuit-diagram-gadget.jpg)
+![Circuit Diagram](circuit-diagram.png.jpg)
 
 ---
 
